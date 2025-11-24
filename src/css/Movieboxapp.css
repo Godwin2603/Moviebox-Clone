@@ -1,0 +1,151 @@
+ .box {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.app-box {
+  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.9)),
+    url(../assets/App/img3.png);
+  background-size: cover;
+  background-position: center;
+  color: white;
+  height: 100vh;
+  width: 100%;
+  padding-bottom: 3rem;
+}
+
+.phone {
+  width: 300px;
+  height: auto;
+  max-width: 100%;
+}
+
+.scanner {
+  width: 120px;
+  height: 120px;
+  overflow: hidden;
+  background-image: url(../assets/App/img2.png);
+  background-size: cover;
+  position: relative;
+}
+
+.scan-line {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  animation: scan 2s infinite linear;
+}
+
+@keyframes scan {
+  0% {
+    transform: translateY(-100%);
+    background: linear-gradient(180deg, #07b84e00, #07b84e4d);
+  }
+  100% {
+    transform: translateY(100%);
+    background: linear-gradient(180deg, #07b84e00, #07b84e4d);
+  }
+}
+
+
+.gradient {
+  background: linear-gradient(91deg, #1cb7ff 1.22%, #2ff58b 50.24%);
+  color: black;
+  border-radius: 2rem;
+  padding: 14px 18px;
+}
+
+
+.section-container {
+  padding: 2rem;
+}
+
+section {
+  background: linear-gradient(0deg, #ffffff0f, #ffffff0f 100%, #101114);
+  padding: 2rem;
+  border-radius: 10px;
+}
+
+.h1 {
+  margin-bottom: 20px;
+}
+
+.faq,
+.faqs {
+  padding: 2rem 1rem;
+}
+
+
+.section-container img,
+.faq img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+
+@media (max-width: 1024px) {
+  h1 {
+    font-size: 1.8rem !important;
+  }
+
+  p {
+    font-size: 1rem;
+  }
+
+  .app-box {
+    height: auto;
+    padding-bottom: 3rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .row {
+    flex-direction: column !important;
+    text-align: center;
+  }
+
+  .scanner {
+    margin: 0 auto;
+  }
+
+  .gradient {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .faq img {
+    width: 100% !important;
+    height: auto !important;
+  }
+
+  .section-container {
+    padding: 1rem;
+  }
+
+  section {
+    padding: 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  h1 {
+    font-size: 1.5rem !important;
+  }
+
+  p {
+    font-size: 0.9rem;
+  }
+
+  .phone {
+    width: 220px;
+  }
+
+  .scanner {
+    width: 90px;
+    height: 90px;
+  }
+}

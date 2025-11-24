@@ -1,0 +1,91 @@
+.categories {
+  padding: 1rem;
+  margin-top: 1rem;
+  display: flex;
+  overflow-x: scroll;
+}
+.categories::-webkit-scrollbar {
+  display: none;
+}
+.stack1 {
+  background: linear-gradient(
+      270deg,
+      rgba(0, 0, 0, 0.5),
+      rgba(0, 0, 0, 0.5) 94.29%
+    ),
+    url(https://h5-static.aoneroom.com/oneroomStatic/public/_nuxt/filter-all.BqQg9lj9.svg)
+      #d3d3d3 50% / cover no-repeat;
+  background-size: cover;
+  width: 150px;
+  height: 90px;
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  align-items: center;
+  border-radius: 10px;
+}
+.stack2 {
+  background: linear-gradient(270deg, #17325180 0%, #143051 94.29%),
+    url("https://pbcdnw.aoneroom.com/image/2025/04/02/7dc9e49f650c93c75ad4a4b379576f84.jpg")
+      lightgray 50% / cover no-repeat;
+  background-size: cover;
+  width: 150px;
+  height: 90px;
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  align-items: center;
+  border-radius: 10px;
+}
+.stack3 {
+  background: linear-gradient(270deg, #50372c80 0%, #503428 94.29%),
+    url("https://pbcdnw.aoneroom.com/image/2025/04/02/52c9e19d9b9b0ef54df33870b90ba2122.jpg")
+      lightgray 50% / cover no-repeat;
+  background-size: cover;
+  width: 150px;
+  height: 90px;
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  align-items: center;
+  border-radius: 10px;
+}
+.stack4 {
+  background: linear-gradient(270deg, #412e4280 0%, #402b42 94.29%),
+    url("https://pbcdnw.aoneroom.com/image/2025/04/02/2d5a87c33d765acc33b3896ec2fbd5af.jpg")
+      lightgray 50% / cover no-repeat;
+  background-size: cover;
+  width: 150px;
+  height: 90px;
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  align-items: center;
+  border-radius: 10px;
+}
+.stack5 {
+  background: linear-gradient(270deg, #662b1e80 0%, #742e1e 94.29%),
+    url("https://pbcdnw.aoneroom.com/image/2025/04/02/ac2570d33035a9e2c9b05b77d3869a41.jpg")
+      lightgray 50% / cover no-repeat;
+  background-size: cover;
+  width: 150px;
+  height: 90px;
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  align-items: center;
+  border-radius: 10px;
+}
+.stack6 {
+  background: linear-gradient(270deg, #3b465280 0%, #374452 94.29%),
+    url("https://pbcdnw.aoneroom.com/image/2025/04/02/fee1836d7bb791eb59dad4387d9ef1c5.jpg")
+      lightgray 50% / cover no-repeat;
+  background-size: cover;
+  width: 150px;
+  height: 90px;
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  align-items: center;
+  border-radius: 10px;
+}

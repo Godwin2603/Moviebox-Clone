@@ -1,0 +1,29 @@
+.padd{
+    padding: 8px 16px;
+    border-radius: 18px;
+    font-weight: bold;
+    font-size: small ;
+}
+@media (max-width: 768px) {
+    .tiles{
+        display: flex;
+        flex-direction: column;
+    }
+    .details{
+        display: none;
+    }
+    .teamA, .teamB{
+        justify-content: center;
+        flex-direction: column;
+    }
+    .teamA{
+        flex-direction: column-reverse;
+    }
+    .notruncate{
+        white-space: normal;
+        width: auto;
+    }.teams{
+        word-wrap: break-word;
+        width: 70px;
+    }
+}

@@ -1,0 +1,56 @@
+.content-container {
+  display: flex;
+  flex: 0 0 auto;
+  margin-bottom: 2rem;
+  flex-direction: column;
+}
+.title{
+    margin: 1rem 0;
+}
+.content {
+  display: grid;
+  grid-template-areas: "stack";
+  place-items: center;
+  gap: .5rem;
+  max-width: 500px;
+  width: 125px;
+  height: 200px;
+  border-radius: 0.5rem;
+  margin-bottom: 2rem;
+}
+.content-cover:hover{
+    opacity: 0.5;
+}
+.content-cover {
+  grid-area: stack;
+  width: 100%;
+  border-radius: 0.5rem;
+  height: 100%;
+  aspect-ratio: 2/3;
+  object-fit: cover;
+}
+.rating{
+    grid-area:  stack;
+    z-index: 1;
+    align-self: end;
+    justify-self: end;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+.year{
+    grid-area: stack;
+    align-self: start;
+    justify-self: start;
+    background-color: green;
+    padding: .3rem;
+    border-radius: 4px;
+}
+.content-title {
+  width: 100%;
+  padding: 0.1rem;
+  color: white;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  margin: .5rem 0;
+}

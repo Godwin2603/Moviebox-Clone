@@ -1,0 +1,51 @@
+nav {
+  padding: 0.85rem 2rem;
+  overflow: hidden;
+} 
+.logo-title{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: larger;
+}
+.search-container{
+    width: 80vh;
+}
+.input{
+ background: hsla(0, 0%, 100%, 0.2);
+ width: 100%;
+}
+input{
+    padding: .3rem;
+    width: 100%;
+}
+button{
+    padding: 10px;
+    width: max-content;
+    cursor: pointer;
+}
+.btn2{
+    background: hsla(0, 0%, 100%, .2);
+}
+.fa-search{
+    margin:0 10px;
+}
+@media (max-width: 768px){
+    nav{
+        padding-bottom: 2.5rem;
+    }
+    .search-container{
+        position: absolute;
+        bottom: 0;
+        width: 90%;
+    }
+    .input{
+        margin: .2rem auto;
+        width: 100%;
+    }
+    input{
+        width: 100%;
+    }
+    .hide{
+        display: none;
+    }
+}
