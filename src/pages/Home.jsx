@@ -1,5 +1,5 @@
 import Hero from "../components/Hero";
-import Carousel from "../components/carousel";
+import Carousel from "../components/Carousel";
 import {
   caroselArray,
   caroselArray2,
