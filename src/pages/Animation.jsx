@@ -1,4 +1,4 @@
-import { movieData, sortOptions, years } from "../components/array";
+import { aniData, sortOptions, years } from "../components/array";
 import Choice from "../components/Choice";
 import Content from "../components/Content";
 
@@ -17,7 +17,7 @@ function Animation(){
             <Choice heading="Country" content={country}/>
             <Choice heading='Years' content={years}/>
             <Choice heading='Sort by' content={sortOptions}/>
-            <Content content={movieData} heading="Anime Show & Movies"/>
+            <Content content={aniData} heading="Anime Show & Movies"/>
         </div>
     )
 }

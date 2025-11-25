@@ -3,6 +3,7 @@ import Carousel from "../components/carousel";
 import {
   caroselArray,
   caroselArray2,
+  carouselArray3,
   liveArray,
   liveArray2,
 } from "../components/array";
@@ -16,7 +17,7 @@ function Home() {
         <Carousel content={caroselArray2} heading="Hollywood Movies" />
         <LiveSection content={liveArray} heading="Live" />
         <LiveSection content={liveArray2} heading="Live" />
-        <Carousel content={caroselArray2} heading="Hollywood Movies" />
+        <Carousel content={carouselArray3} heading="New Movies" />
       </div>
     </div>
   );

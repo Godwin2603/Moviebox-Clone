@@ -160,24 +160,108 @@ import sport2 from "../assets/sports/img2.jpg";
 import sport3 from "../assets/sports/img3.jpg";
 import sport4 from "../assets/sports/img4.jpg";
 import sport5 from "../assets/sports/img5.jpg";
-import sport6 from "../assets/sports/img6.jpg"
-import sport7 from "../assets/sports/img7.jpg"
-import sport8 from "../assets/sports/img8.jpg"
-import sport9 from "../assets/sports/img9.jpg"
-import sport10 from "../assets/sports/img10.jpg"
-import sport11 from "../assets/sports/img11.jpg"
-import sport12 from "../assets/sports/img12.jpg"
-import sport13 from "../assets/sports/img13.jpg"
-import sport14 from "../assets/sports/img14.jpg"
-import sport15 from "../assets/sports/img15.jpg"
-import sport16 from "../assets/sports/img16.jpg"
-import sport17 from "../assets/sports/img17.jpg"
-import sport18 from "../assets/sports/img18.jpg"
-import sport19 from "../assets/sports/img19.jpg"
-import sport20 from "../assets/sports/img20.jpg"
+import sport6 from "../assets/sports/img6.jpg";
+import sport7 from "../assets/sports/img7.jpg";
+import sport8 from "../assets/sports/img8.jpg";
+import sport9 from "../assets/sports/img9.jpg";
+import sport10 from "../assets/sports/img10.jpg";
+import sport11 from "../assets/sports/img11.jpg";
+import sport12 from "../assets/sports/img12.jpg";
+import sport13 from "../assets/sports/img13.jpg";
+import sport14 from "../assets/sports/img14.jpg";
+import sport15 from "../assets/sports/img15.jpg";
+import sport16 from "../assets/sports/img16.jpg";
+import sport17 from "../assets/sports/img17.jpg";
+import sport18 from "../assets/sports/img18.jpg";
+import sport19 from "../assets/sports/img19.jpg";
+import sport20 from "../assets/sports/img20.jpg";
 
+import ani1 from "../assets/animation/img1.jpg";
+import ani2 from "../assets/animation/img2.jpg";
+import ani3 from "../assets/animation/img3.jpg";
+import ani4 from "../assets/animation/img4.jpg";
+import ani5 from "../assets/animation/img5.jpg";
+import ani6 from "../assets/animation/img6.jpg";
+import ani7 from "../assets/animation/img7.jpg";
+import ani8 from "../assets/animation/img8.jpg";
+import ani9 from "../assets/animation/img9.jpg";
+import ani10 from "../assets/animation/img10.jpg";
+import ani11 from "../assets/animation/img11.jpg";
+import ani12 from "../assets/animation/img12.jpg";
+import ani13 from "../assets/animation/img13.jpg";
+import ani14 from "../assets/animation/img14.jpg";
+import ani15 from "../assets/animation/img15.jpg";
+import ani16 from "../assets/animation/img16.jpg";
+import ani17 from "../assets/animation/img17.jpg";
+import ani18 from "../assets/animation/img18.jpg";
+import ani19 from "../assets/animation/img19.jpg";
+import ani20 from "../assets/animation/img20.jpg";
+import ani21 from "../assets/animation/img21.jpg";
+import ani22 from "../assets/animation/img22.jpg";
+import ani23 from "../assets/animation/img23.jpg";
+import ani24 from "../assets/animation/img24.jpg";
+import ani25 from "../assets/animation/img25.jpg";
+import ani26 from "../assets/animation/img26.jpg";
+import ani27 from "../assets/animation/img27.jpg";
+import ani28 from "../assets/animation/img28.jpg";
+import ani29 from "../assets/animation/img29.jpg";
+import ani30 from "../assets/animation/img30.jpg";
+import ani31 from "../assets/animation/img31.jpg";
+import ani32 from "../assets/animation/img32.jpg";
+import ani33 from "../assets/animation/img33.jpg";
+import ani34 from "../assets/animation/img34.jpg";
+import ani35 from "../assets/animation/img35.jpg";
+import ani36 from "../assets/animation/img36.jpg";
+import ani37 from "../assets/animation/img37.jpg";
+import ani38 from "../assets/animation/img38.jpg";
+import ani39 from "../assets/animation/img39.jpg";
+import ani40 from "../assets/animation/img40.jpg";
+import ani41 from "../assets/animation/img41.jpg";
+import ani42 from "../assets/animation/img42.jpg";
+import ani43 from "../assets/animation/img43.jpg";
+import ani44 from "../assets/animation/img44.jpg";
+import ani45 from "../assets/animation/img45.jpg";
 
-
+import car1 from "../assets/newmovie/img1.jpg"
+import car2 from "../assets/newmovie/img2.jpg"
+import car3 from "../assets/newmovie/img3.jpg"
+import car4 from "../assets/newmovie/img4.jpg"
+import car5 from "../assets/newmovie/img5.jpg"
+import car6 from "../assets/newmovie/img6.jpg"
+import car7 from "../assets/newmovie/img7.jpg"
+import car8 from "../assets/newmovie/img8.jpg"
+import car9 from "../assets/newmovie/img9.jpg"
+import car10 from "../assets/newmovie/img10.jpg"
+import car11 from "../assets/newmovie/img11.jpg"
+import car12 from "../assets/newmovie/img12.jpg"
+import car13 from "../assets/newmovie/img13.jpg"
+import car14 from "../assets/newmovie/img14.jpg"
+import car15 from "../assets/newmovie/img15.jpg"
+import car16 from "../assets/newmovie/img16.jpg"
+import car17 from "../assets/newmovie/img17.jpg"
+import car18 from "../assets/newmovie/img18.jpg"
+import car19 from "../assets/newmovie/img19.jpg"
+import car20 from "../assets/newmovie/img20.jpg"
+import car21 from "../assets/newmovie/img21.jpg"
+import car22 from "../assets/newmovie/img22.jpg"
+import car23 from "../assets/newmovie/img23.jpg"
+import car24 from "../assets/newmovie/img24.jpg"
+import car25 from "../assets/newmovie/img25.jpg"
+import car26 from "../assets/newmovie/img26.jpg"
+import car27 from "../assets/newmovie/img27.jpg"
+import car28 from "../assets/newmovie/img28.jpg"
+import car29 from "../assets/newmovie/img29.jpg"
+import car30 from "../assets/newmovie/img30.jpg"
+import car31 from "../assets/newmovie/img31.jpg"
+import car32 from "../assets/newmovie/img32.jpg"
+import car33 from "../assets/newmovie/img33.jpg"
+import car34 from "../assets/newmovie/img34.jpg"
+import car35 from "../assets/newmovie/img35.jpg"
+import car36 from "../assets/newmovie/img36.jpg"
+import car37 from "../assets/newmovie/img37.jpg"
+import car38 from "../assets/newmovie/img38.jpg"
+import car39 from "../assets/newmovie/img39.jpg"
+import car40 from "../assets/newmovie/img40.jpg"
 
 import tv from "../assets/tv.png";
 import media from "../assets/media.png";
@@ -227,7 +311,50 @@ const caroselArray2 = [
   { cover: img49, title: "The Conjuring: Last", lang: "English" },
   { cover: img50, title: "Play Dirty", lang: "English" },
 ];
-const caroselArray3 = [];
+const carouselArray3 = [
+  { cover: car1, title: "Anemone" },
+  { cover: car2, title: "Hedda" },
+  { cover: car3, title: "Ballad of a Small Player" },
+  { cover: car4, title: "Tron: Ares" },
+  { cover: car5, title: "House of Dynamite" },
+  { cover: car6, title: "The Hand That Rocks the Cradle" },
+  { cover: car7, title: "Long Walk" },
+  { cover: car8, title: "The roses" },
+  { cover: car9, title: "She Walks in Darkness [English]" },
+  { cover: car10, title: "Good news" },
+  { cover: car11, title: "Our fault" },
+  { cover: car12, title: "The Strangers: Chapter 2" },
+  { cover: car13, title: "A Big Bold Beautiful Journey" },
+  { cover: car14, title: "Swim to Me" },
+  { cover: car15, title: "Vicious" },
+  { cover: car16, title: "The Woman in Cabin" },
+  { cover: car17, title: "Stay" },
+  { cover: car18, title: "Maintenance Required" },
+  { cover: car19, title: "Him" },
+  { cover: car20, title: "A little fright Music" },
+];
+const caroselArray4 = [
+  { cover: car21, title: "Star Wars: The Force A" },
+  { cover: car22, title: "Avengers Endgame" },
+  { cover: car23, title: "Spider-man: No way home" },
+  { cover: car24, title: "Avatar" },
+  { cover: car25, title: "Top Gun Maverick" },
+  { cover: car26, title: "Black Panther" },
+  { cover: car27, title: "Avatar: The Way of Water" },
+  { cover: car28, title: "Avengers: Infinity War" },
+  { cover: car29, title: "Titanic" },
+  { cover: car30, title: "Jurassic World" },
+  { cover: car31, title: "Inside out 2" },
+  { cover: car32, title: "Deadpool & Wolverine" },
+  { cover: car33, title: "Barbie" },
+  { cover: car34, title: "The Avengers" },
+  { cover: car35, title: "Star Wars: The Last Jedi" },
+  { cover: car36, title: "The Incredibles 2" },
+  { cover: car37, title: "The Super Mario Bros." },
+  { cover: car38, title: "The Lion KING" },
+  { cover: car39, title: "The Dark Knight" },
+  { cover: car40, title: "Rogue One: A Star Wa" },
+];
 const liveArray = [
   {
     cover1: live1,
@@ -968,20 +1095,419 @@ const novarr3 = [
   { cover: nov48, title: "Unwanted True Mate" },
 ];
 const sportArray = [
-  {cover1: sport1, cover2: sport2, team1: "Sweden", team2: "Slovenia", score1: 1, score2: 1},
-  {cover1:sport3, cover2: sport4 , team1: "Kosovo", team2: " Switzerland",  score1: 1, score2: 1 },
-  {cover1:sport5, cover2: sport6 , team1: "Scotland", team2: "Denmark",  score1: 4, score2: 2 },
-  {cover1:sport7, cover2: sport8 , team1: "Austria", team2: " Bonsia and herzeg",  score1: 1, score2: 1 },
-  {cover1:sport9, cover2: sport10 , team1: "Spain", team2: "Turkiye",  score1: 2, score2: 2 },
-  {cover1:sport11, cover2: sport12 , team1: "Romania", team2: " San Mario",  score1: 7, score2: 1 },
-  {cover1:sport13, cover2: sport14 , team1: "Belgium", team2: "Liechtenstein",  score1: 7, score2: 0 },
-  {cover1:sport15, cover2: sport16 , team1: "Bulgaria", team2: "Georgia",  score1: 2, score2: 1 },
-  {cover1:sport17, cover2: sport18 , team1: "Wales", team2: "North Macedonia",  score1: 7, score2: 1 },
-  {cover1:sport19, cover2: sport20 , team1: "Greece", team2: "Belarus",  score1: 0, score2: 0 }
+  {
+    cover1: sport1,
+    cover2: sport2,
+    team1: "Sweden",
+    team2: "Slovenia",
+    score1: 1,
+    score2: 1,
+  },
+  {
+    cover1: sport3,
+    cover2: sport4,
+    team1: "Kosovo",
+    team2: " Switzerland",
+    score1: 1,
+    score2: 1,
+  },
+  {
+    cover1: sport5,
+    cover2: sport6,
+    team1: "Scotland",
+    team2: "Denmark",
+    score1: 4,
+    score2: 2,
+  },
+  {
+    cover1: sport7,
+    cover2: sport8,
+    team1: "Austria",
+    team2: " Bonsia and herzeg",
+    score1: 1,
+    score2: 1,
+  },
+  {
+    cover1: sport9,
+    cover2: sport10,
+    team1: "Spain",
+    team2: "Turkiye",
+    score1: 2,
+    score2: 2,
+  },
+  {
+    cover1: sport11,
+    cover2: sport12,
+    team1: "Romania",
+    team2: " San Mario",
+    score1: 7,
+    score2: 1,
+  },
+  {
+    cover1: sport13,
+    cover2: sport14,
+    team1: "Belgium",
+    team2: "Liechtenstein",
+    score1: 7,
+    score2: 0,
+  },
+  {
+    cover1: sport15,
+    cover2: sport16,
+    team1: "Bulgaria",
+    team2: "Georgia",
+    score1: 2,
+    score2: 1,
+  },
+  {
+    cover1: sport17,
+    cover2: sport18,
+    team1: "Wales",
+    team2: "North Macedonia",
+    score1: 7,
+    score2: 1,
+  },
+  {
+    cover1: sport19,
+    cover2: sport20,
+    team1: "Greece",
+    team2: "Belarus",
+    score1: 0,
+    score2: 0,
+  },
 ];
+
+const aniData = [
+  {
+    cover: ani1,
+    title: "The Twits",
+    cast: "Johnny Vegas, Margo",
+    year: 2025,
+    rating: 4.7,
+  },
+  {
+    cover: ani2,
+    title: "Jujutsu Kaisen: Execution",
+    cast: "Junya Enoki, Yûichi Nakamura, Daisuke",
+    year: 2025,
+    rating: 7.8,
+  },
+  {
+    cover: ani3,
+    title: "Solo Leveling Arise",
+    cast: "Brandon Acosta, Brandon Acosta, Ramoile",
+    year: 2024,
+    rating: 8.7,
+  },
+  {
+    cover: ani4,
+    title: "Solo Leveling",
+    cast: "Taito Ban, Taito Ban, Aleks Le",
+    year: 2025,
+    rating: 8.6,
+  },
+  {
+    cover: ani5,
+    title: "Sakamoto Days",
+    cast: "Tomokazu Sugita, Nobunaga Shimaza",
+    year: 2025,
+    rating: 7.5,
+  },
+  {
+    cover: ani6,
+    title: "The bad guys",
+    cast: "Sam Rockwell, Marc Maron, Awkwafina",
+    year: 2022,
+    rating: 6.8,
+  },
+  {
+    cover: ani7,
+    title: "The Bad Guys:",
+    cast: "Michael Godere, Ezekiel",
+    year: 2025,
+    rating: 6.3,
+  },
+  {
+    cover: ani8,
+    title: "The All-devouring Whale:",
+    cast: null,
+    year: 2025,
+    rating: 7.6,
+  },
+  {
+    cover: ani9,
+    title: "The mighty Nein",
+    cast: "Autumn Ivy, Sayy Destiny",
+    year: 2025,
+    rating: 6.5,
+  },
+  {
+    cover: ani10,
+    title: "The Lord of Mysteries",
+    cast: "Joshua Waters, Blake McNamara, Blake",
+    year: 2025,
+    rating: 8.6,
+  },
+  {
+    cover: ani11,
+    title: "The Angry Birds Movie 2",
+    cast: "Jason Sudeikis, Josh Gad, Leslie Jones, Bill Hader, Rachel Bloom, Danny McBride",
+    year: 2019,
+    rating: 7.1,
+  },
+  {
+    cover: ani12,
+    title: "Castlevania",
+    cast: "Edward Bluemel, Thuono",
+    year: 2023,
+    rating: 7.5,
+  },
+  {
+    cover: ani13,
+    title: "Vivo",
+    cast: "Lin-Manuel Miranda, Ynairaly Simo, Zoe Saldana, Juan de Marcos, Gloria Estefan",
+    year: 2021,
+    rating: 7.5,
+  },
+  {
+    cover: ani14,
+    title: "Parasyte the maxim",
+    cast: "Aya Hirano, Nobunaga",
+    year: 2016,
+    rating: 8.2,
+  },
+  {
+    cover: ani15,
+    title: "The Amazing World of Gumball",
+    cast: "Nicolas Cantu, Terrell Ransom Jr., Logan Grove, Kyla Kowalewski, Teresa Gallagher, Dan Russell",
+    year: 2011,
+    rating: 8.4,
+  },
+  {
+    cover: ani16,
+    title: "Natsume's Book of Friends",
+    cast: "Hiroshi Kamiya, Kazuhiko Inoue, Sanae Kobayashi, Rina Satō",
+    year: 2008,
+    rating: 6.5,
+  },
+  {
+    cover: ani17,
+    title: "Orion and the Dark",
+    cast: "Jacob Tremblay, Paul Walter Hauser, Werner Herzog, Colin Hanks, Angela Bassett",
+    year: 2024,
+    rating: 7.5,
+  },
+  {
+    cover: ani18,
+    title: "Gachiakuta",
+    cast: "Aoi Ichikawa, Katsuyuki Konishi, Yoshitsugu",
+    year: 2025,
+    rating: 8.1,
+  },
+  {
+    cover: ani19,
+    title: "In Your Dreams",
+    cast: "Craig Robinson, Simu Liu, Cristin Milioti, Jolie Hoang-Rappaport, Elias Janssen",
+    year: 2025,
+    rating: 7.4,
+  },
+  {
+    cover: ani20,
+    title: "How Not to Summon a Demon Lord",
+    cast: "Masaaki Mizunaka, Yū Serizawa, Azumi Waki, Kaori Ishihara",
+    year: 2018,
+    rating: 5.4,
+  },
+
+  {
+    cover: ani21,
+    title: "Attack on Titan",
+    cast: "Yuki Kaji, Yui Ishikawa, Marina Inoue, Hiroshi Kamiya, Yoshimasa Hosoya",
+    year: 2013,
+    rating: 8.4,
+  },
+
+  {
+    cover: ani22,
+    title: "The Simpsons",
+    cast: "Dan Castellaneta, Julie Kavner, Nancy Cartwright, Yeardley Smith, Hank Azaria, Harry Shearer",
+    year: 1989,
+    rating: 8.4,
+  },
+
+  {
+    cover: ani23,
+    title: "Secrets of the Silent Witch",
+    cast: "Saori Hayami, Yui Ogura, Kana Hanazawa, Ryōhei Kimura, Yoshiki Nakajima",
+    year: 2025,
+    rating: 6.7,
+  },
+  {
+    cover: ani24,
+    title: "Befriended to my Sister's Ex",
+    cast: null,
+    year: 2021,
+    rating: 4.5,
+  },
+  {
+    cover: ani25,
+    title: "Mavka: The Forest Song",
+    cast: "Nataliya Denisenko, Artem Pivovarov, Elena Kravets (Ukrainian); Laurie Hymes, Eddy Lee, Sarah Natocherry (English)",
+    year: 2023,
+    rating: "8.1",
+  },
+  {
+    cover: ani26,
+    title: "Harold and the Purple Crayon",
+    cast: "Zachary Levi, Lil Rel",
+    year: 2024,
+    rating: 5.7,
+  },
+  {
+    cover: ani27,
+    title: "Dr. Seuss's the Sneetches",
+    cast: "Courtney Chu, Christopher Fitzgerald,",
+    year: 2025,
+    rating: 6.3,
+  },
+
+  // Row 2
+  {
+    cover: ani28,
+    title: "Special Crime Investigation Unit - Tokunana -",
+    cast: "Kenjirō Tsuda, Yūki Ono, Tatsuhisa Suzuki, Kenji Nomura",
+    year: 2019,
+    rating: 6.7,
+  },
+  {
+    cover: ani29,
+    title:
+      "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World",
+    cast: "Natsumi Fujiwara, Ryota Suzuki, Miho Okasaki, Hana Sato",
+    year: 2024,
+    rating: 6.9,
+  },
+  {
+    cover: ani30,
+    title: "The Fragrant Flower Booms with Dignity",
+    cast: "Yoshinori Nakayama,",
+    year: 2025,
+    rating: 8.5,
+  },
+  {
+    cover: ani31,
+    title: "Unexpectedly Naughty Fukami",
+    cast: "Elsie Lovelock, Elsie Lovelock, Chloe Eves ",
+    year: 2025,
+    rating: 8.5,
+  },
+  {
+    cover: ani32,
+    title: "Missing Link",
+    cast: "Hugh Jackman, Zoe Saldana, Zach Galifianakis",
+    year: 2019,
+    rating: 6.7,
+  },
+  {
+    cover: ani33,
+    title: "Plankton The Movie",
+    cast: "Mr. Lawrence, Jill Talley, Tom Kenny, Bill Fagerbakke",
+    year: 2025,
+    rating: 7.6,
+  },
+  {
+    cover: ani34,
+    title: "KPop Demon Hunters",
+    cast: "Arden Cho, May Hong,",
+    year: 2025,
+    rating: 7.6,
+  },
+  {
+    cover: ani35,
+    title: "Splinter Cell: Deathwatch",
+    cast: "Liev Schreiber, Kirby, Janet Varney",
+    year: 2025,
+    rating: 6.8,
+  },
+  {
+    cover: ani36,
+    title:
+      "The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible.",
+    cast: "Takuya Satō, Saori Ōnishi, Kenta Miyake, Hisako Kanemoto",
+    year: 2024,
+    rating: 7.0,
+  },
+
+  {
+    cover: ani37,
+    title: "Blue Eye Samurai",
+    cast: "Maya Erskine, George Takei, Masi Oka",
+    year: 2025,
+    rating: 8.7,
+  },
+  {
+    cover: ani38,
+    title: "One-Punch Man",
+    cast: "Makoto Furukawa, Kaito Ishikawa, Yuuki Kaji",
+    year: 2015,
+    rating: 8.5,
+  },
+  {
+    cover: ani39,
+    title: "Cyberpunk: Edgerunners",
+    cast: "Kenneith Choi, Aoi Yuuki, Zach Aguilar",
+    year: 2022,
+    rating: 8.3,
+  },
+  {
+    cover: ani40,
+    title: "Management of Novice Alchemist",
+    cast: "Kanon Takao, Hina Kino, Saori Ōnishi",
+    year: 2022,
+    rating: 6.4,
+  },
+  {
+    cover: ani41,
+    title: "Demon Slayer: Kimetsu no Yaiba - Hashira Training Arc",
+    cast: "Natsuki Hanae, Akari Kitō, Kengo Kawanishi",
+    year: 2024,
+    rating: 8.8,
+  },
+  {
+    cover: ani42,
+    title: "Spy × Family",
+    cast: "Takuya Eguchi, Saori Hayami, Atsumi Tanezaki",
+    year: 2022,
+    rating: 8.3,
+  },
+  {
+    cover: ani43,
+    title: "Unicorn Academy",
+    cast: "Sadie Laflamme-Snow, Lara Jean Chorostecki, Kolton Stewart",
+    year: 2023,
+    rating: 6.6,
+  },
+  {
+    cover: ani44,
+    title: "Shiki",
+    cast: "Tōru Ōkawa, Kouki Uchiyama, Aoi Yuuki",
+    year: 2010,
+    rating: 7.7,
+  },
+  {
+    cover: ani45,
+    title: "The Monkey King",
+    cast: "Jimmy O. Yang, Jolie Hoang-Rappaport, Bowen Yang",
+    year: 2023,
+    rating: 6.5,
+  },
+];
+
 export {
   caroselArray,
   caroselArray2,
+  carouselArray3,
+  caroselArray4,
   liveArray,
   liveArray2,
   genres,
@@ -995,4 +1521,5 @@ export {
   novarr2,
   novarr3,
   sportArray,
+  aniData,
 };
