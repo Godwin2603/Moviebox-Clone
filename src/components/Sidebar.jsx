@@ -12,7 +12,7 @@ function Sidebar({isOpen}) {
 
   return (
     <aside className={`flex-col bg-black text-white h-full fixed justify-between w-[15%] left-0 ${isOpen ? "translate-x-0 " : "-translate-x-full"}`}>
-      <div className="flex flex-col overflow-y-auto">
+      <div className="flex flex-col overflow-y-auto flow">
 
         {/* Language */}
         <div className="border-b border-gray-900 lang">

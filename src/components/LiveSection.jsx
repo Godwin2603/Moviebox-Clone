@@ -7,7 +7,7 @@ function LiveSection({content,heading}){
                 <h1>{heading}</h1>
                 <button className='text-gray-500 font-bold hover:text-white'>More <i className="fa fa-chevron-right"></i></button>
             </div>
-            <div className='flex gap-4 overflow-x-auto'>
+            <div className='flex gap-4 live-cont overflow-x-auto'>
                 {content.map((item,index)=>(
                     <div key={index} className='match-graphic'>
                        <div className="items">

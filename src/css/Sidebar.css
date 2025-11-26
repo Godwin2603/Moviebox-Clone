@@ -76,3 +76,6 @@ aside {
     top: 90px;
   }
 }
+.flow::-webkit-scrollbar{
+  display: none;
+}
